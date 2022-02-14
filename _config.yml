@@ -14,8 +14,8 @@ dox:
               item_url: /
             - item_name: Projects
               item_url: /projects
-            - item_name: Default
-              item_url: /default
+            - item_name: Weeknotes
+              item_url: /weeknotes
         cta:
             label: Projects
             url: /documentation

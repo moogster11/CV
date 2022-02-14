@@ -17,9 +17,9 @@ dox:
             - item_name: Weeknotes
               item_url: /weeknotes
         cta:
-            label: 
-            url: 
-            icon: # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
+            label: Projects
+            url: /weeknotes
+            icon: folder # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
     footer:
         logo:
             text: Project name

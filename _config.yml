@@ -12,8 +12,6 @@ dox:
         nav:
             - item_name: Homepage
               item_url: /
-            - item_name: Weeknotes
-              item_url: /weeknotes1
             - item_name: Projects
               item_url: /projects
             - item_name: Default

@@ -1,7 +1,7 @@
 ---
 # Page settings
 layout: default # Choose layout: "default", "homepage" or "documentation-archive"
-title: Weeknotes main page # Define a title of your page
+title: Weeknotes main page test # Define a title of your page
 description: Documentation single — Description # Define a description of your page
 keywords: # Define keywords for search engines
 order: 0 # Define order of this page in list of all documentation documents

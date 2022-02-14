@@ -1,6 +1,6 @@
 ---
 # Page settings
-layout: default # Choose layout: "default", "homepage" or "documentation-archive"
+layout: homepage # Choose layout: "default", "homepage" or "documentation-archive"
 title: Weeknotes # Define a title of your page
 description: This is my weeknotes diary # Define a description of your page
 keywords: # Define keywords for search engines

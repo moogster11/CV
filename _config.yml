@@ -16,10 +16,10 @@ dox:
               item_url: /resume
             - item_name: Weeknotes
               item_url: /weeknotes
-        cta:
-            label: Projects
-            url: /weeknotes
-            icon: folder # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
+        # cta:
+        #     label: Projects
+        #     url: /weeknotes
+        #     icon: folder # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
     footer:
         logo:
             text: Project name

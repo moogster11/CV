@@ -6,15 +6,16 @@ dox:
     language: en-US # Use ISO language and country codes to setup language of your website - https://www.w3schools.com/tags/ref_language_codes.asp and https://www.w3schools.com/tags/ref_country_codes.asp
     header:
         logo:
-            text: Project Name
+            text: John Ferguson
             image:
+       
         nav:
             - item_name: Homepage
               item_url: /
-            - item_name: Default Layout
+            - item_name: Weeknotes
               item_url: /default
         cta:
-            label: Documentation
+            label: Projects
             url: /documentation
             icon: folder # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
     footer:

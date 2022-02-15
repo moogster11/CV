@@ -11,4 +11,4 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-This site was built using [GitHub Pages](weeknotes.md).
+This site was built using [GitHub Pages](resume.md).

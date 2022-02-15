@@ -11,13 +11,13 @@ hero:
     text: Hero section — Text
     background_image: # Paste image URL to display image in background of hero section
     buttons: # Add buttons below, there are examples with all available options
-        - label: Button — Filled with icon
+        - label: Projects
           url: http://example.com
           external_url: true # Set to "false" if you're pointing to inner page
           style: filled # Choose style: "filled" or "bordered"
           icon: github # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
-        - label: Button — Bordered with icon
-          url: /documentation
+        - label: Projects
+          url: /projects
           external_url: false
           style: bordered
           icon: gitlab

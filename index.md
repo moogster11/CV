@@ -8,7 +8,7 @@ keywords: # Define keywords for search engines
 # Hero section
 hero:
     title: John Ferguson - Product designer / manager
-    text: Hero section — Text
+    text: Adventures in digital in the education sector
     background_image: # Paste image URL to display image in background of hero section
     buttons: # Add buttons below, there are examples with all available options
         - label: SHU Design system

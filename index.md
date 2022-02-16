@@ -28,8 +28,8 @@ hero:
 # Features section
 features:
     rows: # Add feature rows below, there are examples with all available options
-        # - title: Features row 1 — Title
-        #   description: Features row 1 — Description
+        - title: 
+          description: 
           grid: # Add feature grid items below, there are examples with all available options
               - title: Feature 1 — Title
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
@@ -40,8 +40,8 @@ features:
               - title: Feature 3 — Title
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: cpu
-        - title: Features row 2 — Title
-          description: Features row 2 — Description
+        - title: 
+          description: 
           grid:
               - title: Feature 1 — Title
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.

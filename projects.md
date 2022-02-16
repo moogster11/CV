@@ -9,6 +9,4 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 This is a link to PGR enquiry methods [GitHub Pages](projPGR.md).
 
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-This site was built using [GitHub Pages](weeknotes.md).
+Study Here

@@ -12,8 +12,8 @@ dox:
         nav:
             - item_name: Homepage
               item_url: /
-            - item_name: Resume
-              item_url: /resume
+            - item_name: Projects
+              item_url: /projects
             - item_name: Weeknotes
               item_url: /weeknotes
         # cta:

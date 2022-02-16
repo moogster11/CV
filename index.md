@@ -7,16 +7,16 @@ keywords: # Define keywords for search engines
 
 # Hero section
 hero:
-    title: Hero section — Title
+    title: John Ferguson - Product designer / manager
     text: Hero section — Text
     background_image: # Paste image URL to display image in background of hero section
     buttons: # Add buttons below, there are examples with all available options
-        - label: Design system
+        - label: SHU Design system
           url: http://example.com
           external_url: true # Set to "false" if you're pointing to inner page
           style: filled # Choose style: "filled" or "bordered"
           icon: github # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
-        - label: Animations
+        - label: Projects
           url: /projects
           external_url: false
           style: bordered
@@ -28,8 +28,8 @@ hero:
 # Features section
 features:
     rows: # Add feature rows below, there are examples with all available options
-        - title: Features row 1 — Title
-          description: Features row 1 — Description
+        # - title: Features row 1 — Title
+        #   description: Features row 1 — Description
           grid: # Add feature grid items below, there are examples with all available options
               - title: Feature 1 — Title
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.

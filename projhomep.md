@@ -9,6 +9,8 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 ## Project type - Website design and development
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8RFDPC_Fsnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The university website homepage has the largest source of traffic for potential students searching for courses. This also include all other main audiences who navigate the universities range of products and offers. The current homepage has not been updated in over five years and as such was not in a position to take on board new strategic opportunities. The project was to redesign the homepage looking for opportunities to implement new strategies and new ways of working as well as improve the design.
 Startup
 

@@ -2,12 +2,10 @@
 # Page settings
 layout: default # Choose layout: "default", "homepage" or "documentation-archive"
 title: Sheffield Hallam Homepage # Define a title of your page
-description: # Define a description of your page
+description: # Project type - Website design and development
 keywords: # Define keywords for search engines
 comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
-
-## Project type - Website design and development
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8RFDPC_Fsnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

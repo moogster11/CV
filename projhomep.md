@@ -2,7 +2,7 @@
 # Page settings
 layout: default # Choose layout: "default", "homepage" or "documentation-archive"
 title: Sheffield Hallam Homepage # Define a title of your page
-description: # Project type - Website design and development
+description: Project type - Website design and development # 
 keywords: # Define keywords for search engines
 comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
@@ -14,11 +14,9 @@ The university website homepage has the largest source of traffic for potential 
 Startup
 
 <div class="callout callout--info">
-    <p><strong>This is info callout!</strong> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>Presented the vision to multiple high-level stakeholders to gain buy-in including opportunities potential for changes in strategy 
+    - Created a vision document that outlined the approach to support gaining buy-in from stakeholders and wider delivery team</p>
 </div>
-
-- Presented the vision to multiple high-level stakeholders to gain buy-in including opportunities potential for changes in strategy 
-- Created a vision document that outlined the approach to support gaining buy-in from stakeholders and wider delivery team
 
 # Discovery
 

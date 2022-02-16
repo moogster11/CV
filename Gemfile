@@ -6,4 +6,3 @@ source "https://rubygems.org"
 
 gem "kramdown-parser-gfm"
 
-gem "json", "2.0.2"

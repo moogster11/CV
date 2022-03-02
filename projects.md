@@ -9,4 +9,8 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 [PGR enquiry methods](projPGR.md)
 
-[Website homepage](projhomep.md)
+[Website homepage](/Users/dmdjf2/www/CV/portfolio/homepage.md)
+
+[Website homepage](/CV/portfolio/homepage.md)
+
+[Website homepage](homepage.md)

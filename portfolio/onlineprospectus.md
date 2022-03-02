@@ -42,6 +42,8 @@ Courses are central to the recruitment of new students in a university. With the
 
 The online prospectus has been central to the universities recruitment activity for four years. It continues to deliver core strategies for recruitment targets including open day signups and clearing recruitment.
 
+**Outcomes**
+
 [Course search](https://www.shu.ac.uk/courses?page=0&perPage=5&query=&yearOfEntry=2022%2F23)
 
 [Course page](https://www.shu.ac.uk/courses/art-and-design/ba-honours-graphic-design/full-time/2022)

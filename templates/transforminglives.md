@@ -1,0 +1,16 @@
+---
+# Page settings
+layout: default # Choose layout: "default", "homepage" or "documentation-archive"
+title: Online prospectus # Define a title of your page
+description: Project type - Website design and development # 
+keywords: # Define keywords for search engines
+comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
+---
+
+Project type - Design and brand
+
+In 2016-2018 Sheffield Hallam University ran a Reputational Campaign to launch its new ‘Transforming Lives’ strategy. Within this campaign, we used our applied research to demonstrate how we were making a difference in people’s lives. As Head of Content and Creative I interviewed and worked with researchers from across the University to tell their story in an impactful way that resonated with a wide variety of audiences.
+
+I was tasked with creating a campaign that set the university apart in the sector. The approach was to break away from traditional research advertising and tell the story of how our research could have an impact on everyday life.
+
+Through taking research projects and applying narratives to them we could start to demonstrate how applied learning could have an impact on people's lives for the good. It also demonstrated the work that the general public was unaware that universities delivered. The approach also broke away from the 'white coat and lab' approach of research to demonstrate it was at the heart of improving society.

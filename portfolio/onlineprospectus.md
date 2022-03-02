@@ -2,8 +2,8 @@
 # Page settings
 layout: default # Choose layout: "default", "homepage" or "documentation-archive"
 title: Online prospectus # Define a title of your page
-description: Project type - Website design and development # 
-keywords: # Define keywords for search engines
+description: Helping users find the right course # 
+keywords: # course, degree
 comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
 

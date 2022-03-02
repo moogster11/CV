@@ -8,6 +8,9 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 ---
 
 Courses are central to the recruitment of new students in a university. With the introduction of a new CMS, there was an opportunity to redesign an outdated course experience. The brief was to improve the ability of potential students to find and apply for courses.
+
+![This is an image](dox-theme/assets/images/layout/olp1.png)
+
 Startup
 
 - Worked with the University Leadership Team, Marketing, Recruitment and Course Leaders to agree on the strategy, define objectives and outline plan

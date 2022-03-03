@@ -9,11 +9,11 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 I was tasked with improving the student onboarding service, this included
 
-Student enrolment - IT account setups, ordering of ID cards
+**Student enrolment** - IT account setups, ordering of ID cards
 
-Student preparation - Course Induction Schedules, accommodation, healthcare tasks, funding, travel and study skills
+**Student preparation** - Course Induction Schedules, accommodation, healthcare tasks, funding, travel and study skills
 
-Student experience - Exploring university life. Booking events, campus orientation and support services
+**Student experience** - Exploring university life. Booking events, campus orientation and support services
 
 **Challenge**
 

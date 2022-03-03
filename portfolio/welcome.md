@@ -44,3 +44,5 @@ Miro discovery board
 Miro review board
 
 <iframe src="https://miro.com/app/board/o9J_lWo2F0Q=/?invite_link_id=588182600230" title="Miro discovery board"></iframe>
+
+<iframe width="560" height="315" src="https://miro.com/app/board/o9J_lWo2F0Q=/?invite_link_id=588182600230" title="Miro discovery board" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

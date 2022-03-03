@@ -39,8 +39,5 @@ Student experience - Exploring university life. Booking events, campus orientati
 **Outcome**
 New students rated the The University pre-arrival website pages highly (82.6%) followed closely by finding out about support services (81.2%). A considerable improvement on the year before. The experience was assessed and improvements were made for the next intake of students mid-year.
 
-Live service
-Miro discovery board
-Miro review board
 
 <iframe width="560" height="315" src="https://miro.com/app/board/o9J_lWo2F0Q=/?invite_link_id=588182600230" title="Miro discovery board" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

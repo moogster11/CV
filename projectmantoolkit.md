@@ -28,8 +28,6 @@ Live
 - 
 
 
-
-
 **Product manager**
 
 Your product manager works with the delivery team to:
@@ -66,13 +64,13 @@ design, build, test and iterate software, and deploy and host the software<
 <br>- support the live running of the service (monitoring, fixing things when they break, responding to users)</br>
 </div>
 
-**Discovery**
+##Discovery
 
 During the discovery phase you’ll need a team with the skills to:
 
-- research and understand the user need for your proposed service
+<div class="callout callout--info">- research and understand the user need for your proposed service
 - be aware of other services that exist and their development plans
-- start planning what your initial prototypes will explore
+- start planning what your initial prototypes will explore</div>
 
 This means you should have the following roles:
 
@@ -89,15 +87,15 @@ You may also find it helpful to have:
 
 You can read a blog post about how the Department for Work and Pensions got the right people for a discovery.
 
-**Alpha**
+##Alpha
 
 If your service progresses to the alpha phase you’ll need the skills to:
 
-<div class="callout callout--info">
-<br>- explore ideas and build prototypes
+<div class="callout callout--info"><br>- explore ideas and build prototypes
+  
 <br>- solve the harder potential problems on the project
-<br>- You must appoint a service owner during alpha.
-</div>
+  
+<br>- You must appoint a service owner during alpha.</div>
 
 Depending on the size and complexity of your service, you should also have the following roles in your service team by the alpha phase:
 

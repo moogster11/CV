@@ -42,22 +42,13 @@ Your product manager works with the delivery team to:
 Your team’s size and the roles you need will change as you build your service. You’ll need different skills during the different development phases.
 
 <div class="callout callout--info"><strong>All service teams must have the skills to:</strong>
-
 <br>- analyse user needs, including accessibility and assisted digital needs, and turn these into user stories
-
 <br>- create user stories and prioritise them<
-
 <br>- manage and report to stakeholders and manage dependencies on other teams
-
-<br>- procure services from third parties, if needed
-design, build, test and iterate software, and deploy and host the software<
-
+<br>- procure services from third parties, if needed design, build, test and iterate software, and deploy and host the software<
 <br>- test with real users
-
 <br>- measure the performance of the service
-
 <br>- find ways of accrediting and handling data
-
 <br>- support the live running of the service (monitoring, fixing things when they break, responding to users)</br>
 </div>
 
@@ -130,10 +121,10 @@ You may need more input from performance analysts, web operations and developers
 When your service moves from beta to the live phase, you’ll usually have met most of your user needs and have less work left to do. However, you must still plan to have a sustainable, multidisciplinary team that can:
 
 <div class="callout callout--info">
-- finish building any additional features you’ve planned for your service
-- manage and maintain your service
-- iterate and improve your service frequently based on changes in your users’ needs or other circumstances (for example, changes to technology or other government policy or programmes)
-- This means you’ll need to plan how and when you change the size of your team and the roles in it. To work out when and how to do this, you and your team should review your service’s roadmap, release plans and product backlog.
+<br>- finish building any additional features you’ve planned for your service
+<br>- manage and maintain your service
+<br>- iterate and improve your service frequently based on changes in your users’ needs or other circumstances (for example, changes to technology or other government policy or programmes)
+<br>- This means you’ll need to plan how and when you change the size of your team and the roles in it. To work out when and how to do this, you and your team should review your service’s roadmap, release plans and product backlog.
 </div>
 
 Changes can also affect morale. Talk to your team to:

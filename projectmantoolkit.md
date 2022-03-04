@@ -42,7 +42,7 @@ Your team’s size and the roles you need will change as you build your service.
 
 <div class="callout callout--info"><strong>All service teams must have the skills to:</strong>
 <br>- analyse user needs, including accessibility and assisted digital needs, and turn these into user stories
-<br>- create user stories and prioritise them<
+<br>- create user stories and prioritise them
 <br>- manage and report to stakeholders and manage dependencies on other teams
 <br>- procure services from third parties, if needed design, build, test and iterate software, and deploy and host the software<
 <br>- test with real users

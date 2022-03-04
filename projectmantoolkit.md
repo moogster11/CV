@@ -52,10 +52,10 @@ Your team’s size and the roles you need will change as you build your service.
 <br>- support the live running of the service (monitoring, fixing things when they break, responding to users)</br>
 </div>
 
+
 **Discovery**
 
 During the discovery phase you’ll need a team with the skills to:
-
 <div class="callout callout--info">- research and understand the user need for your proposed service
 - be aware of other services that exist and their development plans
 - start planning what your initial prototypes will explore</div>
@@ -63,7 +63,6 @@ During the discovery phase you’ll need a team with the skills to:
 **Alpha**
 
 If your service progresses to the alpha phase you’ll need the skills to:
-
 <div class="callout callout--info"><br>- explore ideas and build prototypes
 <br>- solve the harder potential problems on the project
 <br>- You must appoint a service owner during alpha.</div>

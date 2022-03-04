@@ -66,8 +66,7 @@ design, build, test and iterate software, and deploy and host the software<
 <br>- support the live running of the service (monitoring, fixing things when they break, responding to users)</br>
 </div>
 
-
-##Discovery
+**Discovery**
 
 During the discovery phase you’ll need a team with the skills to:
 
@@ -79,14 +78,14 @@ This means you should have the following roles:
 
 someone with product management skills (this could be a service owner but does not have to be in this phase)
 
-a user researcher
-a designer
+- user researcher
+- designer
 
 You may also find it helpful to have:
 
-a content designer
-a developer
-a performance analyst
+- content designer
+- developer
+- performance analyst
 
 You can read a blog post about how the Department for Work and Pensions got the right people for a discovery.
 

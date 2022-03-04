@@ -11,10 +11,9 @@ https://scottcolfer.com/product-management-handbook/
 
 
 Discovery
-- Analysis**
+- Analysis
 - User stories
 - Product requirement docs
-
 
 Alpha
 - Prototyping
@@ -57,8 +56,8 @@ Your team’s size and the roles you need will change as you build your service.
 
 During the discovery phase you’ll need a team with the skills to:
 <div class="callout callout--info">- research and understand the user need for your proposed service
-- be aware of other services that exist and their development plans
-- start planning what your initial prototypes will explore</div>
+<br>- be aware of other services that exist and their development plans
+<br>- start planning what your initial prototypes will explore</div>
 
 **Alpha**
 

@@ -48,23 +48,28 @@ Your team’s size and the roles you need will change as you build your service.
 <br>- test with real users
 <br>- measure the performance of the service
 <br>- find ways of accrediting and handling data
-<br>- support the live running of the service (monitoring, fixing things when they break, responding to users)</br>
+<br>- support the live running of the service (monitoring, fixing things when they break, responding to users)
+<br>
 </div>
 
 
 **Discovery**
 
-During the discovery phase you’ll need a team with the skills to:
+<div class="callout callout--info"><strong>During the discovery phase you’ll need a team with the skills to:</strong>
 <div class="callout callout--info">- research and understand the user need for your proposed service
 <br>- be aware of other services that exist and their development plans
-<br>- start planning what your initial prototypes will explore</div>
+<br>- start planning what your initial prototypes will explore
+<br>
+</div>
 
 **Alpha**
 
-If your service progresses to the alpha phase you’ll need the skills to:
-<div class="callout callout--info"><br>- explore ideas and build prototypes
+<div class="callout callout--info">If your service progresses to the alpha phase you’ll need the skills to:</strong>
+<br>- explore ideas and build prototypes
 <br>- solve the harder potential problems on the project
-<br>- You must appoint a service owner during alpha.</div>
+<br>- You must appoint a service owner during alpha.
+
+</div>
 
 By the end of the alpha, you should have a clear idea of what your beta will be and the team you’ll need to build it.
 
@@ -80,8 +85,7 @@ You may need more input from performance analysts, web operations and developers
 
 When your service moves from beta to the live phase, you’ll usually have met most of your user needs and have less work left to do. However, you must still plan to have a sustainable, multidisciplinary team that can:
 
-<div class="callout callout--info">
-<br>- finish building any additional features you’ve planned for your service
+<div class="callout callout--info"><br>- finish building any additional features you’ve planned for your service
 <br>- manage and maintain your service
 <br>- iterate and improve your service frequently based on changes in your users’ needs or other circumstances (for example, changes to technology or other government policy or programmes)
 <br>- This means you’ll need to plan how and when you change the size of your team and the roles in it. To work out when and how to do this, you and your team should review your service’s roadmap, release plans and product backlog.

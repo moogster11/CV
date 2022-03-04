@@ -24,9 +24,6 @@ Beta
 - Delivery
 - Roadmap
 
-Live
-- 
-
 
 **Product manager**
 
@@ -64,7 +61,7 @@ design, build, test and iterate software, and deploy and host the software<
 <br>- support the live running of the service (monitoring, fixing things when they break, responding to users)</br>
 </div>
 
-##Discovery
+**Discovery**
 
 During the discovery phase you’ll need a team with the skills to:
 

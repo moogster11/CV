@@ -15,7 +15,7 @@ dox:
             - item_name: Projects
               item_url: /projects
             - item_name: Toolkit
-              item_url: /CV/projectmantoolkit.md
+              item_url: /projectmantoolkit
         # cta:
         #     label: Projects
         #     url: /weeknotes

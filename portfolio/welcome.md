@@ -41,4 +41,4 @@ New students rated the The University pre-arrival website pages highly (82.6%) f
 
 [![Welcome](/CV/images/olp1.png)](https://www.shu.ac.uk/welcome)
 
-<iframe width="600" height="315" src="https://miro.com/app/board/o9J_lWo2F0Q=/?invite_link_id=588182600230" title="Miro discovery board" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://miro.com/app/board/o9J_lWo2F0Q=/?invite_link_id=588182600230" title="Miro discovery board" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

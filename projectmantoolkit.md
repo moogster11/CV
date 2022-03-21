@@ -11,10 +11,9 @@ https://scottcolfer.com/product-management-handbook/
 
 
 Discovery
-- Analysis**
+- Analysis
 - User stories
 - Product requirement docs
-
 
 Alpha
 - Prototyping
@@ -23,11 +22,6 @@ Alpha
 Beta
 - Delivery
 - Roadmap
-
-Live
-- 
-
-
 
 
 **Product manager**
@@ -46,85 +40,39 @@ Your product manager works with the delivery team to:
 
 Your team’s size and the roles you need will change as you build your service. You’ll need different skills during the different development phases.
 
-<div class="callout callout--info"><strong>All service teams must have the skills to:</strong>
+All service teams must have the skills to:
 
 <br>- analyse user needs, including accessibility and assisted digital needs, and turn these into user stories
-
-<br>- create user stories and prioritise them<
-
+<br>- create user stories and prioritise them
 <br>- manage and report to stakeholders and manage dependencies on other teams
-
-<br>- procure services from third parties, if needed
-design, build, test and iterate software, and deploy and host the software<
-
+<br>- procure services from third parties, if needed design, build, test and iterate software, and deploy and host the software<
 <br>- test with real users
-
 <br>- measure the performance of the service
-
 <br>- find ways of accrediting and handling data
+<br>- support the live running of the service (monitoring, fixing things when they break, responding to users)
 
-<br>- support the live running of the service (monitoring, fixing things when they break, responding to users)</br>
-</div>
 
 **Discovery**
 
 During the discovery phase you’ll need a team with the skills to:
 
 - research and understand the user need for your proposed service
-- be aware of other services that exist and their development plans
-- start planning what your initial prototypes will explore
+<br>- be aware of other services that exist and their development plans
+<br>- start planning what your initial prototypes will explore
 
-This means you should have the following roles:
-
-someone with product management skills (this could be a service owner but does not have to be in this phase)
-
-- user researcher
-- designer
-
-You may also find it helpful to have:
-
-- content designer
-- developer
-- performance analyst
-
-You can read a blog post about how the Department for Work and Pensions got the right people for a discovery.
 
 **Alpha**
 
-If your service progresses to the alpha phase you’ll need the skills to:
-
-<div class="callout callout--info">
+If your service progresses to the alpha phase you’ll need the skills to:</strong>
 <br>- explore ideas and build prototypes
 <br>- solve the harder potential problems on the project
 <br>- You must appoint a service owner during alpha.
-</div>
-
-Depending on the size and complexity of your service, you should also have the following roles in your service team by the alpha phase:
-
-- a product manager
-- a delivery manager or scrum master
-- one or more user researchers
-- one or more content designers
-- one or more designers
-- a developer
-- a technical lead
-- an assisted digital lead
-- an accessibility lead
-
-You should also have access to:
-
-- a performance analyst
-- a technical architect
-- a web operations engineer
-- quality assurance and testing skills
-
-During alpha, your team may also need agile coaching and business analysis skills.
 
 By the end of the alpha, you should have a clear idea of what your beta will be and the team you’ll need to build it.
 
 **Beta**
 
-<div class="callout callout--info">In the beta phase, the main priority is creating a simple, clear, fast service while your team works toward live operation. The team needs to have the skills to make frequent iterations based on regular user testing.
+In the beta phase, the main priority is creating a simple, clear, fast service while your team works toward live operation. The team needs to have the skills to make frequent iterations based on regular user testing.
 
 At this phase, you may need to increase the size of the team.
 
@@ -134,11 +82,10 @@ You may need more input from performance analysts, web operations and developers
 
 When your service moves from beta to the live phase, you’ll usually have met most of your user needs and have less work left to do. However, you must still plan to have a sustainable, multidisciplinary team that can:
 
-<div class="callout callout--info">
-- finish building any additional features you’ve planned for your service
-- manage and maintain your service
-- iterate and improve your service frequently based on changes in your users’ needs or other circumstances (for example, changes to technology or other government policy or programmes)
-- This means you’ll need to plan how and when you change the size of your team and the roles in it. To work out when and how to do this, you and your team should review your service’s roadmap, release plans and product backlog.
+<br>- finish building any additional features you’ve planned for your service
+<br>- manage and maintain your service
+<br>- iterate and improve your service frequently based on changes in your users’ needs or other circumstances (for example, changes to technology or other government policy or programmes)
+<br>- This means you’ll need to plan how and when you change the size of your team and the roles in it. To work out when and how to do this, you and your team should review your service’s roadmap, release plans and product backlog.
 </div>
 
 Changes can also affect morale. Talk to your team to:

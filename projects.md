@@ -20,6 +20,10 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 [6. Digital experience team](portfolio/homepage.md)
 
+Accessibility
+
+Disabled student stupport
+
 -------
 
 [PGR enquiry methods](projPGR.md)

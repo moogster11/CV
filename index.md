@@ -16,12 +16,12 @@ hero:
           external_url: true # Set to "false" if you're pointing to inner page
           style: filled # Choose style: "filled" or "bordered"
           icon: github # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
-        - label: Projects
+        - label: Service design projects
           url: /projects
           external_url: false
           style: bordered
           icon: gitlab
-        - label: Documentation
+        - label: Design portfolio
           url: /documentation
           external_url: false
           style: bordered
@@ -36,27 +36,27 @@ features:
         - title: 
           description: 
           grid: # Add feature grid items below, there are examples with all available options
-              - title: Feature 1 — Title
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+              - title: Design strategy
+                # description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: box # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
-              - title: Feature 2 — Title
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+              - title: User research
+                # description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: server
-              - title: Feature 3 — Title
+              - title: Design thinking
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: cpu
-        - title: 
-          description: 
-          grid:
-              - title: Feature 1 — Title
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
-                icon: git-branch
-              - title: Feature 2 — Title
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
-                icon: git-commit
-              - title: Feature 3 — Title
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
-                icon: git-merge
+        # - title: 
+        #   description: 
+        #   grid:
+        #       - title: Feature 1 — Title
+        #         description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+        #         icon: git-branch
+        #       - title: Feature 2 — Title
+        #         description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+        #         icon: git-commit
+        #       - title: Feature 3 — Title
+        #         description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+        #         icon: git-merge
     footer: # Set features section footer variables
         title: Features footer — Title
         description: Features footer — Description

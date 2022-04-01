@@ -22,7 +22,7 @@ hero:
           style: bordered
           icon: gitlab
         - label: Design portfolio
-          url: /documentation
+          url: https://jferguson1974.myportfolio.com/
           external_url: false
           style: bordered
           icon: gitlab
@@ -45,7 +45,7 @@ features:
               - title: Graphic design
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: server
-                
+
         # - title: 
         #   description: 
         #   grid:

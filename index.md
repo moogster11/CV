@@ -42,9 +42,10 @@ features:
               - title: Graphic design
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: server
-              - title: Collaborative working
+              - title: Graphic design
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
-                icon: cpu
+                icon: server
+                
         # - title: 
         #   description: 
         #   grid:

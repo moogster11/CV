@@ -11,22 +11,24 @@ hero:
     text: Adventures in digital in the education sector
     background_image: # Paste image URL to display image in background of hero section
     buttons: # Add buttons below, there are examples with all available options
-        - label: SHU Design system
-          url: https://youthful-hamilton-684ea7.netlify.app/
-          external_url: true # Set to "false" if you're pointing to inner page
-          style: filled # Choose style: "filled" or "bordered"
-          icon: github # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
         - label: Service design projects
           url: /projects
           external_url: false
           style: bordered
           icon: gitlab
+
         - label: Design portfolio
           url: https://jferguson1974.myportfolio.com/
-          external_url: false
+          external_url: true
           style: bordered
           icon: gitlab
           
+        - label: SHU Design system
+          url: https://youthful-hamilton-684ea7.netlify.app/
+          external_url: true # Set to "false" if you're pointing to inner page
+          style: filled # Choose style: "filled" or "bordered"
+          icon: github # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
+
     # download_link: # Set small download link placed below buttons
     #     label: Download — v4.0.0
     #     url: https://example.com

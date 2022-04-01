@@ -26,6 +26,7 @@ hero:
           external_url: false
           style: bordered
           icon: gitlab
+          
     # download_link: # Set small download link placed below buttons
     #     label: Download — v4.0.0
     #     url: https://example.com

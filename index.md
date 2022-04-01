@@ -26,9 +26,9 @@ hero:
           external_url: false
           style: bordered
           icon: gitlab
-    download_link: # Set small download link placed below buttons
-        label: Download — v4.0.0
-        url: https://example.com
+    # download_link: # Set small download link placed below buttons
+    #     label: Download — v4.0.0
+    #     url: https://example.com
 
 # Features section
 features:
@@ -43,7 +43,7 @@ features:
                 description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: server
               - title: Collaborative working
-                # description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
                 icon: cpu
         # - title: 
         #   description: 

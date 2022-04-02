@@ -22,7 +22,7 @@ hero:
           external_url: true
           style: bordered
           icon: gitlab
-          
+
         - label: SHU Design system
           url: https://youthful-hamilton-684ea7.netlify.app/
           external_url: true # Set to "false" if you're pointing to inner page
@@ -39,15 +39,15 @@ features:
         - title: 
           description: 
           grid: # Add feature grid items below, there are examples with all available options
-              - title: Service thinking
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
-                icon: box # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
-              - title: Graphic design
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
-                icon: server
-              - title: Graphic design
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
-                icon: server
+              - title: System thinking
+                description: Looks for ways to continually add value and solves user problems. Focuses on outcomes over outputs. 
+                icon: book-open # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
+              - title: Collaboration and community
+                description: Continually looks for new ways to engage and support stakeholders and teams to make the right decisions.
+                icon: git-branch
+              - title: Design strategy
+                description:  Leads the implementation of design strategy to support organisational goals and plans.
+                icon: file-text
 
         # - title: 
         #   description: 

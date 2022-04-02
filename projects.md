@@ -8,37 +8,26 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 ---
 
 
-[1. Welcome - onboarding new students](portfolio/welcome.md)
+[Onboarding new students](portfolio/welcome.md)
 
-[2. Guiding audiences through covid](portfolio/covid.md)
+[Guiding audiences through covid](portfolio/covid.md)
 
-[3. Building an organisational design system](portfolio/designsystem.md)
+[Building an organisational design system](portfolio/designsystem.md)
 
-[4. Guiding journeys through the main homepage](portfolio/homepage.md)
+[Searching for potential courses](portfolio/homepage.md)
 
-[5. Forms project](portfolio/homepage.md)
-
-[6. Digital experience team](portfolio/homepage.md)
+[Digital experience team](portfolio/homepage.md)
 
 Accessibility
 
 Disabled student stupport
 
--------
-
 [PGR enquiry methods](projPGR.md)
 
 [Online prospectus](portfolio/onlineprospectus.md)
 
-[Research](portfolio/research.md)
-
-[Team Hallam](portfolio/teamhallam.md)
-
-[Transforming lives](portfolio/transforminglives.md)
 
 
-
-[Other](portfolio/other.md)
 
 
 

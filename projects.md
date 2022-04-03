@@ -17,13 +17,9 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 [Digital experience team](portfolio/homepage.md)
 
-Accessibility
-
-Disabled student stupport
+[Disabled student stupport]
 
 [PGR enquiry methods](projPGR.md)
-
-[Online prospectus](portfolio/onlineprospectus.md)
 
 
 

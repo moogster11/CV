@@ -7,12 +7,11 @@ keywords: # Define keywords for search engines
 comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
 
+[Events booking and management](portfolio/events.md)
 
 [Onboarding new students](portfolio/welcome.md)
 
 [Guiding audiences through covid](portfolio/covid.md)
-
-[Building an organisational design system](portfolio/designsystem.md)
 
 [Searching for potential courses](portfolio/homepage.md)
 

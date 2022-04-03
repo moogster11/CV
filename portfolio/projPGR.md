@@ -31,6 +31,8 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 <iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVOAcpTYc=/?moveToViewport=-12336,2028,7386,4373" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOAcpTYc=/?moveToViewport=-12336,2028,7386,4373" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
 
 
 

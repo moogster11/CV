@@ -7,6 +7,32 @@ keywords: # Define keywords for search engines
 comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOAc6Oio=/?moveToViewport=-4945,-10552,7558,5171" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+</style>
+<div class="container"> 
+<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVOAc6Oio=/?moveToViewport=-4945,-10552,7558,5171" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+</div>
+
+
 I was tasked with improving the student onboarding service, this included
 
 **Student enrolment** - IT account setups, ordering of ID cards
@@ -41,4 +67,3 @@ New students rated the The University pre-arrival website pages highly (82.6%) f
 
 [![Welcome](/CV/images/olp1.png)](https://www.shu.ac.uk/welcome)
 
-<iframe width="800" height="400" src="https://miro.com/app/board/o9J_lWo2F0Q=/?invite_link_id=588182600230" title="Miro discovery board" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

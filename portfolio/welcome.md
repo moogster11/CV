@@ -29,7 +29,7 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 }
 </style>
 <div class="container"> 
-<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVOAc6Oio=/?moveToViewport=-4945,-10552,7558,5171" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVOAc6Oio=/?moveToViewport=-31971,-10658,2228,1319" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
 

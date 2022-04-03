@@ -9,17 +9,15 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 [Events booking and management](portfolio/events.md)
 
-[Onboarding new students](portfolio/welcome.md)
+[PGR enquiry methods](portfolio/projPGR.md)
 
-[Guiding audiences through covid](portfolio/covid.md)
+[Disabled student stupport](portfolio/homepage.md)
 
-[Searching for potential courses](portfolio/homepage.md)
+[Welcome - onboarding new students](portfolio/welcome.md)
 
 [Digital experience team](portfolio/homepage.md)
 
-[Disabled student stupport]
 
-[PGR enquiry methods](projPGR.md)
 
 
 

@@ -28,12 +28,12 @@
   border: none;
 }
 </style>
+
+## Creating an onboarding service for new students<br/>
+### Service mapping, prototyping, content analysis, content design, information architecture, measurement
+
+### [Live service](https://www.shu.ac.uk/welcome)
+
 <div class="container"> 
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lTLqM=/?pres=1&frameId=3458764522439175179" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
-
-<br/>
-## Creating an onboarding service for new students<br/>
-Service mapping, prototyping, content analysis, content design, information architecture, measurement
-
-### [Live service](https://www.shu.ac.uk/welcome)

@@ -33,7 +33,5 @@
 </div>
 
 <br/>
-## Creating an onboarding service for new students<br/>
-Service mapping, prototyping, content analysis, content design, information architecture, measurement
-
-### [Live service](https://www.shu.ac.uk/welcome)
+## Replacing physcial events during covid<br/>
+Service mapping, prototyping, content analysis, user journeys, interface design

@@ -35,6 +35,6 @@
 <br/>
 
 <div class="container"> 
-<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVO_lXf0Q=/?moveToViewport=-17275,-5209,4505,2365" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lXf0Q=/?pres=1&frameId=3458764522439017192" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 

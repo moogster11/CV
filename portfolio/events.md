@@ -37,8 +37,6 @@ Service mapping, prototyping, booking interfaces, agile delivery, field mapping
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lV_zw=/?pres=1&frameId=3458764522439048295" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
-<iframe class="responsive-iframe" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgK3SlxGxXJMvn2KtOMCs7N%2FCRM---Open-day-journey%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-
 ## [Journey mapping board](https://miro.com/app/board/uXjVODTzOKQ=/invite_link_id=720952283506)
 
 

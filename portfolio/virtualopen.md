@@ -28,10 +28,14 @@
   border: none;
 }
 </style>
-<div class="container"> 
-<iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lTLqM=/?pres=1&frameId=3458764522439175179" frameBorder="0" scrolling="no" allowFullScreen></iframe>
-</div>
 
 <br/>
 ## Replacing physcial events during covid<br/>
 ####Service mapping, prototyping, content analysis, user journeys, interface design
+<br/>
+
+<div class="container"> 
+<iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lTLqM=/?pres=1&frameId=3458764522439175179" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+</div>
+
+

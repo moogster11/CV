@@ -29,7 +29,7 @@
 }
 </style>
 <div class="container"> 
-<iframe class="responsive-iframe" <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVO_lV_zw=/?pres=1&frameId=3458764522439048295" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lV_zw=/?pres=1&frameId=3458764522439048295" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
 ## Improving how users book and manage events

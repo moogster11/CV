@@ -30,7 +30,7 @@
 </style>
 
 ## Helping prospective students choose a university<br/>
-### Service mapping, content design, user needs, research, information architecture, measurement
+#### Service mapping, content design, user needs, research, information architecture, measurement
 
 <div class="container"> 
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lTUI0=/?pres=1&frameId=3458764522439136394" frameBorder="0" scrolling="no" allowFullScreen></iframe>

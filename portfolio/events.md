@@ -30,13 +30,11 @@
 </style>
 <br/>
 ## Improving how users book and manage events<br/>
-Service mapping, prototyping, booking interfaces, agile delivery, field mapping
+### Service mapping, prototyping, booking interfaces, agile delivery, field mapping
 <br/>
 
 <div class="container"> 
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lV_zw=/?pres=1&frameId=3458764522439048295" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
-
-## [Journey mapping board](https://miro.com/app/board/uXjVODTzOKQ=/invite_link_id=720952283506)
 
 

@@ -12,7 +12,7 @@ dox:
         nav:
             - item_name: Homepage
               item_url: /
-            - item_name: Projects
+            - item_name: Service design projects
               item_url: /projects
             # - item_name: Toolkit
             #   item_url: /projectmantoolkit

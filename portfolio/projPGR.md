@@ -1,11 +1,11 @@
 ---
 # Page settings
-layout: default # Choose layout: "default", "homepage" or "documentation-archive"
-title: PGR enquiry routes # Define a title of your page
-description: Improving how users make PhD enquiries 
-Service mapping, prototyping, form delivery, google analytics # Define a description of your page
-keywords: # Define keywords for search engines
-comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
+# layout: default # Choose layout: "default", "homepage" or "documentation-archive"
+# title: PGR enquiry routes # Define a title of your page
+# description: Improving how users make PhD enquiries 
+# Service mapping, prototyping, form delivery, google analytics # Define a description of your page
+# keywords: # Define keywords for search engines
+# comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
 
 
@@ -32,6 +32,9 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVOAcpTYc=/?pres=1&frameId=3458764522415727038" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
+title: PGR enquiry routes # Define a title of your page
+# description: Improving how users make PhD enquiries 
+# Service mapping, prototyping, form delivery, google analytics # Define a description of your page
 
 
 

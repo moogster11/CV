@@ -15,7 +15,7 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 [Welcome - onboarding new students](portfolio/welcome.md)
 
-[Virtual open day](portfolio/welcome.md)
+[Virtual open day](portfolio/virtualopen.md)
 
 
 

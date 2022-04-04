@@ -30,7 +30,8 @@
 </style>
 
 <br/>
-## Replacing physcial events during covid<br/>
+## Replacing physcial events during covid
+<br/>
 ####Service mapping, prototyping, content analysis, user journeys, interface design
 <br/>
 

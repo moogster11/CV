@@ -1,13 +1,13 @@
 ---
 # Page settings
-layout: default # Choose layout: "default", "homepage" or "documentation-archive"
-title: Event booking form # Define a title of your page
-description: Improving how users book and manage event bookings # 
-keywords: # Define keywords for search engines
-comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
+# layout: default # Choose layout: "default", "homepage" or "documentation-archive"
+# title: PGR enquiry routes # Define a title of your page
+# description: Improving how users make PhD enquiries 
+# Service mapping, prototyping, form delivery, google analytics # Define a description of your page
+# keywords: # Define keywords for search engines
+# comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
 
-Service mapping, prototyping, stakeholder engagement, agile delivery 
 
 <style>
 .container {
@@ -28,10 +28,12 @@ Service mapping, prototyping, stakeholder engagement, agile delivery
   border: none;
 }
 </style>
-
 <div class="container"> 
 <iframe class="responsive-iframe" <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVO_lV_zw=/?pres=1&frameId=3458764522439048295" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
+
+## Improving how users book and manage events
+## Service mapping, prototyping, booking interfaces, agile delivery, field mapping
 
 
 

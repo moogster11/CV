@@ -29,13 +29,12 @@
 }
 </style>
 
-<br/>
+</div>
 ## Replacing physical events during covid<br/>
 #### Service mapping, prototyping, content analysis, user journeys, interface design
 <br/>
 
 <div class="container"> 
-<iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lTLqM=/?pres=1&frameId=3458764522439175179" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVO_lXf0Q=/?moveToViewport=-17275,-5209,4505,2365" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
-
 

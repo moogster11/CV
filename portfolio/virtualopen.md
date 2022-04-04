@@ -28,8 +28,7 @@
   border: none;
 }
 </style>
-
-</div>
+<br/>
 ## Replacing physical events during covid<br/>
 #### Service mapping, prototyping, content analysis, user journeys, interface design
 <br/>

@@ -28,7 +28,7 @@
   border: none;
 }
 </style>
-
+<br/>
 ## Helping prospective students choose a university<br/>
 #### Service mapping, content design, user needs, research, information architecture, measurement
 

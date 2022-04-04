@@ -34,10 +34,7 @@
 
 <br/>
 ### Improving how users book and manage events<br/>
-
-```
-Service mapping, prototyping, booking interfaces, agile delivery, field mapping
-```
+# Service mapping, prototyping, booking interfaces, agile delivery, field mapping
 
 
 

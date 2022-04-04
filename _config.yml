@@ -12,8 +12,8 @@ dox:
         nav:
             - item_name: Homepage
               item_url: /
-            # - item_name: Projects
-            #   item_url: /projects
+            - item_name: Projects
+              item_url: /projects
             # - item_name: Toolkit
             #   item_url: /projectmantoolkit
         # cta:
@@ -22,11 +22,11 @@ dox:
         #     icon: folder # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
     footer:
         logo:
-            text: Project name
+            text: John Ferguson
             image:
-        text: Copyright &copy; 2018. - Project name <br>All rights reserved.
+        text: Copyright &copy; 2022. - Portfolio <br>All rights reserved.
     google_analytics:
-        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+        tracking_code: G-J7DK0PHS1Q # Add your Google Analytics tracking code to activate Google Analytics
     comments:
         disqus_forum_shortname: # Add your Disqus forum shortname to activate comments site-wide
 

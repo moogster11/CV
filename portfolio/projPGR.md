@@ -32,8 +32,6 @@
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVOAcpTYc=/?pres=1&frameId=3458764522415727038" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
-# PGR enquiry routes
-
 ## Improving how users make PhD enquiries 
 ## Service mapping, prototyping, form delivery, google analytics 
 

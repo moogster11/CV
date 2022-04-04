@@ -40,13 +40,13 @@ features:
           description: 
           grid: # Add feature grid items below, there are examples with all available options
               - title: System thinking
-                description: Looks for ways to continually add value and solves user problems. Focuses on outcomes over outputs. 
+                description: Looking for ways to frame and solve user problems. Testing solutions and gaining insight.
                 icon: book-open # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
               - title: Collaboration and community
-                description: Continually looks for new ways to engage and support stakeholders and teams to make the right decisions.
+                description: Continually looking for new ways to engage and support stakeholders and teams to make the right decisions.
                 icon: git-branch
               - title: Design strategy
-                description:  Leads the implementation of design strategy to support organisational goals and plans.
+                description:  Leading the implementation of design strategy to support organisational goals and plans.
                 icon: file-text
 
         # - title: 

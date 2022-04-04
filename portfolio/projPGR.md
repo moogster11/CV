@@ -32,9 +32,10 @@
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVOAcpTYc=/?pres=1&frameId=3458764522415727038" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
-title: PGR enquiry routes # Define a title of your page
-# description: Improving how users make PhD enquiries 
-# Service mapping, prototyping, form delivery, google analytics # Define a description of your page
+# PGR enquiry routes
+
+## Improving how users make PhD enquiries 
+## Service mapping, prototyping, form delivery, google analytics 
 
 
 

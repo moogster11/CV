@@ -2,12 +2,12 @@
 # Page settings
 layout: default # Choose layout: "default", "homepage" or "documentation-archive"
 title: Event booking form # Define a title of your page
-description: Improving how users book and manage event bookings
-Service mapping, prototyping, stakeholder engagement, agile delivery # 
+description: Improving how users book and manage event bookings # 
 keywords: # Define keywords for search engines
 comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
 
+Service mapping, prototyping, stakeholder engagement, agile delivery 
 
 <style>
 .container {
@@ -28,6 +28,7 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
   border: none;
 }
 </style>
+
 <div class="container"> 
 <iframe class="responsive-iframe" <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVO_lV_zw=/?pres=1&frameId=3458764522439048295" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>

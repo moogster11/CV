@@ -29,7 +29,7 @@
 }
 </style>
 <div class="container"> 
-<iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_r9458=/?pres=1&frameId=3458764522446339294" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_r9458=/?pres=1&frameId=3458764522446339287" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
 <br/>

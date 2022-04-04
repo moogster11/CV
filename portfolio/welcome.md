@@ -29,8 +29,10 @@
 }
 </style>
 
+<br/>
 ## Creating an onboarding service for new students<br/>
 #### Service mapping, prototyping, content analysis, content design, information architecture, measurement
+<br/>
 
 #### [Live service](https://www.shu.ac.uk/welcome)
 

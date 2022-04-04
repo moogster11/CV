@@ -39,4 +39,4 @@
 </div>
 
 <br/>
-[Live service](https://www.shu.ac.uk/welcome)
+[Link to live service](https://www.shu.ac.uk/welcome)

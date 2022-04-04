@@ -39,6 +39,6 @@
 </div>
 
 <br/>
-[Live service](https://book.shu.ac.uk/opendayform/registration?eventId=1)
+[Link to live service](https://book.shu.ac.uk/opendayform/registration?eventId=1)
 
 

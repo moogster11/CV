@@ -26,7 +26,7 @@ dox:
             image:
         text: Copyright &copy; 2022. - Portfolio <br>All rights reserved.
     google_analytics:
-        tracking_code: G-J7DK0PHS1Q # Add your Google Analytics tracking code to activate Google Analytics
+        tracking_code: G-J7DK0PHS1Q
     comments:
         disqus_forum_shortname: # Add your Disqus forum shortname to activate comments site-wide
 

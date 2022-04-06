@@ -38,6 +38,10 @@
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lV_zw=/?pres=1&frameId=3458764522439048295" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
+<div class="container"> 
+<iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_aAN6A=/?pres=1&frameId=3458764522709439877" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+</div>
+
 <br/>
 [Link to live service](https://book.shu.ac.uk/opendayform/registration?eventId=1)
 

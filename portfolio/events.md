@@ -35,8 +35,8 @@
 
 A service for prospective students to book and manage open day and education events
 
-*Role* Design and delivery
-*Team* Interface designers, project managers, integration developers, authentication team
+**Role** Design and delivery<br/>
+**Team** Interface designers, project managers, integration developers, authentication team
 
 
 <div class="container"> 

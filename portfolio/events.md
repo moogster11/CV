@@ -32,16 +32,18 @@
 <br/>
 ## Improving how users book and manage events<br/>
 ##### Service mapping, prototyping, booking interfaces, agile delivery, field mapping
-<br/>
 
-> Design how users etc etc Design how users etc etcDesign how users etc etcDesign how users etc etcDesign how users etc etcDesign how users etc etcDesign how users etc etc
+A service for prospective students to book and manage open day and education events
 
-> Design how users etc etc Design how users etc etcDesign how users etc etcDesign how users etc etcDesign how users etc etcDesign how users etc etcDesign how users etc etc
+*Role* Design and delivery
+*Team* Interface designers, project managers, integration developers, authentication team
+
 
 <div class="container"> 
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_lV_zw=/?pres=1&frameId=3458764522439048295" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
-
+<br/>
+##### User flow
 <div class="container"> 
 <iframe class="responsive-iframe" src="https://miro.com/app/embed/uXjVO_aAN6A=/?pres=1&frameId=3458764522709439877" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>

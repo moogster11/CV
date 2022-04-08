@@ -30,10 +30,8 @@
 </style>
 
 <br/>
-## Improving how users book and manage events<br/>
+## A service for prospective students to book and manage open day and education events<br/>
 ##### Service mapping, prototyping, booking interfaces, agile delivery, field mapping
-
-A service for prospective students to book and manage open day and education events
 
 **Role** Design and delivery<br/>
 **Team** Interface designers, project managers, integration developers, authentication team

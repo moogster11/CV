@@ -8,16 +8,17 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 ---
 
 ![My Image](images/eventjourneys.png)
-##### [Designing an event booking portal for propsective students](portfolio/events.md)</br>
+###### [Designing an event booking portal for propsective students](portfolio/events.md)</br>
 
-##### [Improving the Phd study enquiry journey](portfolio/projPGR.md)</br>
+###### [Improving the Phd study enquiry journey](portfolio/projPGR.md)
+</br>
 
 ![My Image](images/explore.jpg)
-##### [Welcome - designing a portal for new students](portfolio/welcome.md)
+###### [Welcome - designing a portal for new students](portfolio/welcome.md)
 
-##### [Focusing on virtual events during the pandemic](portfolio/virtualopen.md)
+###### [Focusing on virtual events during the pandemic](portfolio/virtualopen.md)
 
-##### [Designing the disabled student stupport service](portfolio/dss.md)
+###### [Designing the disabled student stupport service](portfolio/dss.md)
 
 
 

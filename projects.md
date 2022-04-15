@@ -11,8 +11,9 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 ##### [Designing an event booking portal for propsective students](portfolio/events.md)
 
-##### [Improving the Phd study enquiry journey](portfolio/projPGR.md)
+##### [Improving the Phd study enquiry journey](portfolio/projPGR.md) </br>
 
+![My Image](images/explore.jpg)
 ##### [Welcome - designing a portal for new students](portfolio/welcome.md)
 
 ##### [Focusing on virtual events during the pandemic](portfolio/virtualopen.md)

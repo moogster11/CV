@@ -11,6 +11,8 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 
 <img src="images/eventjourneys.png" alt="Alt text" title="Optional title">
 
+![My Image](images/eventjourneys.png)
+
 ##### [Designing an event booking portal for propsective students](portfolio/events.md)
 
 ##### [Improving the Phd study enquiry journey](portfolio/projPGR.md)

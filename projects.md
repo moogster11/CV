@@ -8,10 +8,9 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 ---
 
 ![My Image](images/eventjourneys.png)
+##### [Designing an event booking portal for propsective students](portfolio/events.md)</br>
 
-##### [Designing an event booking portal for propsective students](portfolio/events.md)
-
-##### [Improving the Phd study enquiry journey](portfolio/projPGR.md) </br>
+##### [Improving the Phd study enquiry journey](portfolio/projPGR.md)</br>
 
 ![My Image](images/explore.jpg)
 ##### [Welcome - designing a portal for new students](portfolio/welcome.md)

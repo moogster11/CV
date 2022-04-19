@@ -7,9 +7,9 @@ keywords: # Define keywords for search engines
 comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
 
-Project type - Website rebuild
 
-I am currently responsible for the management of the redesign of the university's research web experience. This includes the redesign and delivery of over 4 institutes including 30+ centres websites and over 1000 projects and staff profiles. This was delivered through
+
+I was responsible for the management of the redesign of the university's research web experience. This includes the redesign and delivery of over 4 institutes including 30+ centres websites and over 1000 projects and staff profiles. This was delivered through
 
 Startup
 

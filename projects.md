@@ -28,7 +28,7 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 ###### [Improving the Phd study enquiry journey](portfolio/projPGR.md)
 <br/>
 
-![My Image](images/welcomedesktop.jpg)
+![My Image](images/welcome.jpg)
 ###### [Welcome - designing a onboarding portal for new students](portfolio/welcome.md)
 <br/>
 

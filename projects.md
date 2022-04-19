@@ -7,8 +7,12 @@ keywords: # Define keywords for search engines
 comments: false # Set to "true" in order to enable comments on this page. Make sure you properly setup "disqus_forum_shortname" variable in "_config.yml"
 ---
 
+![My Image](images/OLP.jpg)
+###### [Helping users find the right course](portfolio/teamhallam.md)
+<br/>
+
 ![My Image](images/teamhallam.jpg)
-###### [Designing an inclusive sports brand for players and supporters](portfolio/teamhalla.md)
+###### [Designing an inclusive sports brand for players and supporters](portfolio/teamhallam.md)
 <br/>
 
 

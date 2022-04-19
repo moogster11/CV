@@ -20,7 +20,7 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 <br/>
 
 
-![My Image](images/eventjourneys.png)
+![My Image](images/eventjourneys.jpg)
 ###### [Designing an event booking portal for propsective students](portfolio/events.md)
 <br/>
 

@@ -32,7 +32,7 @@ comments: false # Set to "true" in order to enable comments on this page. Make s
 ###### [Focusing on virtual events during the pandemic](portfolio/virtualopen.md)
 <br/>
 
-![My Image](images/explore.jpg)
+![My Image](images/DSS.jpg)
 ###### [Designing the disabled student stupport service](portfolio/dss.md)
 
 
